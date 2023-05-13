@@ -6,3 +6,5 @@ Datasets Links: https://www.kaggle.com/datasets/salader/dogs-vs-cats
 Face mask detection using Convolutional Neural Networks (CNN) is a machine learning application that uses deep learning algorithms to identify whether a person is wearing a face mask or not in real-time. The CNN model is trained on a dataset that includes images of people with and without face masks.
 
 Datasets Links:https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
+# Can be increase accuracy by Data Augmentation
